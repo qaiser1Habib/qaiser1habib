@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://qaiser-portfolio.vercel.app/](https://qaiser-portfolio.vercel.app/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **qasierhabib6@gmail.com**
 
