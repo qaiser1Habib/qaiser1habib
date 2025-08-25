@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Fitsty Vitrual Fitting Room**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://qaiser-portfolio.vercel.app/](https://qaiser-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://qaiser-portfolio-orpin.vercel.app/](Portfolio)
 
 - 💬 Ask me about **MERN**
 
