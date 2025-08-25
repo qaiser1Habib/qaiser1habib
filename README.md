@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://qaiser-portfolio-orpin.vercel.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://qaiser-portfolio-orpin.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
