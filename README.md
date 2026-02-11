@@ -77,7 +77,7 @@ If you have an idea or project, feel free to reach out.
 <div align="center">
 
 ### Tools I Use Daily
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman,figma,docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman,figma,docker,kubernetes,aws" />
 
 <br/><br/>
 
