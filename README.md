@@ -28,6 +28,7 @@ Currently exploring **Python, DevOps practices, and computer vision** to build m
 
 **🔭 Current Focus:** Building **Fitsty – Virtual Fitting Room** and production-ready MERN stack applications  
 **💼 Portfolio:** [qaiser-portfolio-orpin.vercel.app](https://qaiser-portfolio-orpin.vercel.app/)
+**💻 GitHub Activity:** [qaiserhabib-work](https://github.com/qaiserhabib-work)
 
 ---
 
